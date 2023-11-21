@@ -10,23 +10,11 @@
       line-height: 1.6;
       margin: 20px;
     }
-
-    h1, h2, h3 {
-      color: #333;
-    }
-
-    code {
-      background-color: #f4f4f4;
-      border: 1px solid #ddd;
-      padding: 5px;
-      display: block;
-      margin: 10px 0;
-    }
   </style>
 </head>
 <body>
 
-  <h1>Nome do Projeto Tracker</h1>
+  <h1>Alura Tracker</h1>
 
   <p>O <strong>Nome do Projeto Tracker</strong> é uma aplicação de rastreamento desenvolvida para ajudar na monitorização e gestão de atividades. Este tracker permite o acompanhamento fácil e eficiente de tarefas, projetos ou qualquer outra atividade que precise de registro e análise.</p>
 
