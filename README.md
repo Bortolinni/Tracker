@@ -1,6 +1,6 @@
-Alura Tracker
-O Alura Tracker é uma aplicação de rastreamento desenvolvida para ajudar na monitorização e gestão de atividades. Este tracker permite o acompanhamento fácil e eficiente de tarefas, projetos ou qualquer outra atividade que precise de registro e análise.
-
+<h1>Alura Tracker</h1>
+<h1>O Alura Tracker é uma aplicação de rastreamento desenvolvida para ajudar na monitorização e gestão de atividades. Este tracker permite o acompanhamento fácil e eficiente de tarefas, projetos ou qualquer outra atividade que precise de registro e análise.
+</h1>
 Recursos Principais
 Registro de Atividades: Registre todas as atividades importantes de forma organizada.
 Gestão de Projetos: Acompanhe o progresso dos projetos, atribua tarefas e defina prazos.
