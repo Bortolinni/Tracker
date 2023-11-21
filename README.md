@@ -39,8 +39,6 @@
     Abra um pull request.
   </code>
 
-  <h2>Licença</h2>
-  <p>Este projeto está licenciado sob a licença [Nome da Licença] - veja o arquivo LICENSE.md para detalhes.</p>
 
   <h2>Contato</h2>
   <p>Se você tiver alguma dúvida ou sugestão, entre em contato pelo email: annaluizabortolini1@gmail.com.</p>
